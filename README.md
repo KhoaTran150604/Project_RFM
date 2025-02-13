@@ -1,2 +1,3 @@
 # Project_RFM
-Phân tích khách hàng dựa vào mô hình RFM
+Mục tiêu: Phân nhóm khách hàng để cho Team Marketing của FPT TELECOM lên kế hoạch đẩy doanh số vào cuối năm.
+
